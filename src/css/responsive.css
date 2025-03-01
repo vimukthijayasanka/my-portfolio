@@ -1,0 +1,9 @@
+@media (max-width: 600px){
+    .btn-group{
+        margin-left: 1rem !important;
+        visibility: visible;
+    }
+    #div-head-2{
+        display: none;
+    }
+}
